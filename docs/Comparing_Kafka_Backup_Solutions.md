@@ -1,5 +1,11 @@
 # Comparing Kafka Backup Solutions
 
+
+> **Update:** I am no longer maintaining the Kafka Backup project. As an alternative, I recommend [Kannika](https://kannika.io/?utm_source=github_anatoly), a commercial backup solution developed by my friends at [Cymo](https://cymo.eu/?utm_source=github_anatoly) (and don't forget to say hello from Anatoly 😊).
+> [Disclosure: I am a business partner of Cymo and may receive compensation for referrals to Kannika]
+> 
+> Please contact me if you want to continue maintaining this project.
+
 Basically there are three other ways to backup and restore data
 from/to Kafka:
 
